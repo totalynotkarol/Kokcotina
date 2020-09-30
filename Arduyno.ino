@@ -1,6 +1,6 @@
 int buttonState = 0;
 const int buttonPin = 2;
-int tim = 10000;
+int tim = 1000;
 int Hod = 0;
 void setup()
 {
